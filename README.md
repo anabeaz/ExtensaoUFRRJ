@@ -21,6 +21,6 @@ Além da disponibilização de informações, o projeto busca aproximar a Univer
 Dessa forma, a plataforma funcionará como um espaço digital de construção coletiva do conhecimento sobre o território, permitindo que informações produzidas e compartilhadas pela própria comunidade sejam organizadas espacialmente e disponibilizadas de maneira acessível.
 
 
-#LINKS
+# LINKS
 
 Pasta no drive -> https://drive.google.com/drive/folders/1FilqT6LV3cE4xkjRN8uW0CUw7mYx0-Un?usp=sharing
