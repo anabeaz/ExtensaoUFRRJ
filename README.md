@@ -19,3 +19,8 @@ Por meio de uma interface cartográfica interativa, os usuários poderão locali
 Além da disponibilização de informações, o projeto busca aproximar a Universidade Federal Rural do Rio de Janeiro da comunidade local, utilizando a Cartografia e as Tecnologias da Informação como ferramentas de extensão universitária, participação social e democratização do acesso à informação espacial.
 
 Dessa forma, a plataforma funcionará como um espaço digital de construção coletiva do conhecimento sobre o território, permitindo que informações produzidas e compartilhadas pela própria comunidade sejam organizadas espacialmente e disponibilizadas de maneira acessível.
+
+
+#LINKS
+
+Pasta no drive -> https://drive.google.com/drive/folders/1FilqT6LV3cE4xkjRN8uW0CUw7mYx0-Un?usp=sharing
